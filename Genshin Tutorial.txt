@@ -1,0 +1,4 @@
+1. Download .mid (midi) files 
+2. Place in folder
+3. Run GenshinMidi.exe
+4. Enjoy <333333 
